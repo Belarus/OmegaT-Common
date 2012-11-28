@@ -1,2 +1,4 @@
 *.dict binary
 *.idx  binary
+*.dsl  binary
+
